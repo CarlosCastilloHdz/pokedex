@@ -1,0 +1,2 @@
+# pokedex
+Practica de pokedex
